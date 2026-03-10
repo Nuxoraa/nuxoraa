@@ -37,11 +37,15 @@
 </table>
 
 ---
-
 ## 📊 Github Status
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nuxoraa&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=8" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nuxoraa&show_icons=true&theme=nord&count_private=true&rank_icon=github&border_radius=8" />
+  
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=nuxoraa&theme=nord&hide_border=false" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuxoraa&layout=compact&theme=nord&hide_border=false&count_private=true" />
 </p>
 
 <p align="center">
