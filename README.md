@@ -2,27 +2,8 @@
   <img src="https://cdn.pfps.gg/banners/6246-anime-manga.png" />
 </div>
 
-## About Me
-<table>
-  <tr>
-    <td>
-      <ul>
-        <li>Completed Frontend Pro and Backend Pro courses at Morrison Academy (2024-2026).</li>
-        <li>Experienced in C# .NET, Python, HTML, CSS, and JavaScript.</li>
-        <li>Focusing on physics-based programming and automation systems.</li>
-      </ul>
-      <h3>Connect with me:</h3>
-      <p>
-        <a href="https://discord.com/users/1275368193489240094"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-        <a href="https://t.me/xorraa"><img src="https://img.shields.io/badge/Telegram-26A6E1?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-        <a href="mailto:nuxora@proton.me"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-      </p>
-    </td>
-    <td>
-       <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa273-3920-4dc1-9610-edca3ff773bc.gif" width="220px" />
-    </td>
-  </tr>
-</table>
+### I am an 8th-grade student focused on programming in the fields of physics and automation. I am dedicated to building a solid foundation in software development and exploring how technology can solve complex engineering problems.
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=nuxoraa&label=PROFILE%20VIEWS&color=blue&style=flat-square" />
   <img src="https://img.shields.io/github/stars/nuxoraa?label=STARS&color=red&style=flat-square" />
@@ -38,6 +19,7 @@
       <ul>
         <li>Completed Frontend Pro and Backend Pro courses at Morrison Academy (2024-2026).</li>
         <li>Experienced in C# .NET, Python, HTML, CSS, and JavaScript.</li>
+        <li>Specializing in physics-based programming and automation systems.</li>
       </ul>
       <h3>Connect with me:</h3>
       <p>
@@ -82,6 +64,7 @@
     <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nuxoraa&repo=local-browser&theme=nord" />
   </a>
 </p>
+
 ---
 
 <h3 align="center">Support Me</h3>
