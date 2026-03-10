@@ -11,17 +11,7 @@
 </div>
 
 ---
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
+
 ## 💫 About Me
 <table>
   <tr>
@@ -50,23 +40,23 @@
 
 ## 📊 Github Status
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ВАШ_НИК&show_icons=true&theme=react&hide_border=false" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ВАШ_НИК&layout=compact&theme=react&hide_border=false" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ВАШ_НИК&show_icons=true&theme=gruvbox&hide_border=false" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ВАШ_НИК&layout=compact&theme=gruvbox&hide_border=false" />
 </p>
 
 ---
 
 ## 🛠 Languages & tools I Have placed My Hands On
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,dotnet,cs,py,linux,git,github,arduino,react,raspberrypi,powershell,bash,debian,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,dotnet,cs,py,linux,ubuntu,debian,git,github,arduino,react,raspberrypi,powershell,bash,blender,obsidian,vscode,visualstudio,figma" />
 </p>
 
 ---
 
 ## ⭐ Best Repositories
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ВАШ_НИК&repo=Data-Science&theme=react" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ВАШ_НИК&repo=Artificial-Intelligence&theme=react" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ВАШ_НИК&repo=Data-Science&theme=gruvbox" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ВАШ_НИК&repo=Artificial-Intelligence&theme=gruvbox" />
 </p>
 
 ---
