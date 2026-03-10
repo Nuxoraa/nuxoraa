@@ -65,7 +65,9 @@
 
 ---
 
-### Support Me ☕
-<a href="https://www.buymeacoffee.com/nuxoraa"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa273-3920-4dc1-9610-edca3ff773bc.gif" width="100%">
+<h3 align="center">💰 Support Me</h3>
+<p align="center">
+  <a href="https://buymeacoffee.com/xorraa">
+    <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="180" alt="Buy Me A Coffee" />
+  </a>
+</p>
