@@ -1,13 +1,16 @@
-# Namaste 🙏 I'm Joshua Thadi
-<hr>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Namaste%20🙏%20I'm%20Joshua%20Thadi&fontSize=40" />
+</div>
 
 ### 🟡 I'm currently pursuing a Bachelor's degree in Computer Science, actively working on improving my programming skills, and exploring various areas of the IT industry. My academic and personal learning journey is focused on building a solid foundation in software development while actively exploring emerging technologies. I am particularly passionate about Artificial Intelligence and Machine Learning, and I aim to specialize in these fields as a long-term career path.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MASTERJUDAH&label=PROFILE%20VIEWS&color=blue&style=flat-square" />
-  <img src="https://img.shields.io/github/stars/MASTERJUDAH?label=STARS&color=red&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/MASTERJUDAH?label=FOLLOWERS&color=blue&style=flat-square" />
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ВАШ_НИК&label=PROFILE%20VIEWS&color=blue&style=flat-square" />
+  <img src="https://img.shields.io/github/stars/ВАШ_НИК?label=STARS&color=red&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/ВАШ_НИК?label=FOLLOWERS&color=blue&style=flat-square" />
+</div>
+
+---
 
 ## 💫 About Me
 <table>
@@ -22,53 +25,43 @@
       </ul>
       <h3>🤝 Connect me :</h3>
       <p>
-        <a href="mailto:thadijoshua@gmail.com"><img src="https://img.shields.io/badge/-Gmail-ea4335?style=flat&logo=gmail&logoColor=white" height="35px"/></a>
-        <a href="https://linkedin.com/in/joshuathadi"><img src="https://img.shields.io/badge/-LinkedIn-0077b5?style=flat&logo=linkedin&logoColor=white" height="35px"/></a>
-        <a href="#"><img src="https://img.shields.io/badge/-Portfolio-4285f4?style=flat&logo=google-chrome&logoColor=white" height="35px"/></a>
-        <a href="#"><img src="https://img.shields.io/badge/-Spotify-1ed760?style=flat&logo=spotify&logoColor=white" height="35px"/></a>
-        <a href="#"><img src="https://img.shields.io/badge/-YouTube-ff0000?style=flat&logo=youtube&logoColor=white" height="35px"/></a>
+        <a href="https://discord.com/users/твой_id"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+        <a href="https://t.me/твой_ник"><img src="https://img.shields.io/badge/Telegram-26A6E1?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+        <a href="mailto:твой_email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
       </p>
     </td>
     <td>
-      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa273-3920-4dc1-9610-edca3ff773bc.gif" width="250px" />
+       <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa273-3920-4dc1-9610-edca3ff773bc.gif" width="220px" />
     </td>
   </tr>
 </table>
 
+---
+
 ## 📊 Github Status
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MASTERJUDAH&show_icons=true&theme=tokyonight&hide_border=false" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MASTERJUDAH&layout=compact&theme=tokyonight&hide_border=false" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ВАШ_НИК&show_icons=true&theme=react&hide_border=false" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ВАШ_НИК&layout=compact&theme=react&hide_border=false" />
 </p>
+
+---
 
 ## 🛠 Languages & tools I Have placed My Hands On
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,ansible,bash,bitbucket,bootstrap,c,cpp,cs,css,discord,docker,dotnet,figma,git,github,gitlab,html,java,js,linux,mongodb,mysql,netlify,nextjs,nodejs,py,pytorch,react,sass,sklearn,svg,tensorflow,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,dotnet,cs,py,linux,git,github,arduino,react,raspberrypi,powershell,bash,debian,figma" />
 </p>
+
+---
 
 ## ⭐ Best Repositories
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=MASTERJUDAH&repo=Data-Science&theme=tokyonight" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=MASTERJUDAH&repo=Artificial-Intelligence&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ВАШ_НИК&repo=Data-Science&theme=react" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ВАШ_НИК&repo=Artificial-Intelligence&theme=react" />
 </p>
 
-## 💻 Tech Stack:
-<p align="left">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-<p align="left">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-</p>
+---
 
 ### Support Me ☕
-<a href="https://www.buymeacoffee.com/joshua"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
+<a href="https://www.buymeacoffee.com/ВАШ_НИК"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa273-3920-4dc1-9610-edca3ff773bc.gif" width="100%">
