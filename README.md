@@ -12,16 +12,13 @@
 
 ---
 
-## 💫 About Me
+##  About Me
 <table>
   <tr>
     <td>
       <ul>
-        <li>👨‍💻 I am currently working on and developing my programming skills.</li>
-        <li>⚙️ I worked on .Net Framework and experience in Model-View-Controller.</li>
-        <li>📚 Skills I acquire in programming languages such as Python, SQL.</li>
-        <li>💡 Interest in Artificial Intelligence, Machine Learning, Deep Learning, Data Science, Automation, BlockChain development.</li>
-        <li>❗ I only like perfection.</li>
+        <li>Окончил два курса: Frontend Pro и Backend Pro в Morrison Academy (2024-2026).</li>
+        <li>Имею опыт работы с C# .NET, Python, HTML, CSS и JavaScript.</li>
       </ul>
       <h3>onnect me :</h3>
       <p>
@@ -38,7 +35,7 @@
 
 ---
 
-##Github Status
+##  Github Status
 <p align="center">
   <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nuxoraa&show_icons=true&theme=nord&count_private=true&rank_icon=github&border_radius=8" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=nuxoraa&theme=nord&hide_border=false" />
@@ -50,14 +47,14 @@
 
 ---
 
-## 🛠 Languages & tools I Have placed My Hands On
+##  Languages & tools I Have placed My Hands On
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,dotnet,cs,py,linux,ubuntu,debian,git,github,arduino,react,raspberrypi,powershell,bash,blender,obsidian,vscode,visualstudio,figma" />
 </p>
 
 ---
 
-##Best Repositories
+##  Best Repositories
 <p align="center">
   <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nuxoraa&repo=Data-Science&theme=nord" />
   <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nuxoraa&repo=Artificial-Intelligence&theme=nord" />
