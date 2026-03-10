@@ -37,15 +37,15 @@
 </table>
 
 ---
+
 ## 📊 Github Status
 <p align="center">
-  <img width="49%" src="https://github-stats-cards.vercel.app/api?username=nuxoraa&show_icons=true&theme=nord&count_private=true" />
-  
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nuxoraa&show_icons=true&theme=nord&count_private=true&rank_icon=github&border_radius=8" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=nuxoraa&theme=nord&hide_border=false" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuxoraa&layout=compact&theme=nord&count_private=true" />
+  <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nuxoraa&layout=compact&theme=nord&count_private=true" />
 </p>
 
 ---
@@ -59,8 +59,8 @@
 
 ## ⭐ Best Repositories
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=nuxoraa&repo=Data-Science&theme=nord" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=nuxoraa&repo=Artificial-Intelligence&theme=nord" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nuxoraa&repo=Data-Science&theme=nord" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nuxoraa&repo=Artificial-Intelligence&theme=nord" />
 </p>
 
 ---
