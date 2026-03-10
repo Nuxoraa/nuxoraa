@@ -56,10 +56,13 @@
 
 ## Best Repositories
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nuxoraa&repo=Data-Science&theme=nord" />
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nuxoraa&repo=Artificial-Intelligence&theme=nord" />
+  <a href="https://github.com/Nuxoraa/cumatosis-storage">
+    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nuxoraa&repo=cumatosis-storage&theme=nord" />
+  </a>
+  <a href="https://github.com/Nuxoraa/local-browser">
+    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nuxoraa&repo=local-browser&theme=nord" />
+  </a>
 </p>
-
 ---
 
 <h3 align="center">Support Me</h3>
