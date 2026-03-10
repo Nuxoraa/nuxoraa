@@ -2,7 +2,7 @@
   <img src="https://cdn.pfps.gg/banners/6246-anime-manga.png" />
 </div>
 
-### 🟡 I'm currently pursuing a Bachelor's degree in Computer Science, actively working on improving my programming skills, and exploring various areas of the IT industry. My academic and personal learning journey is focused on building a solid foundation in software development while actively exploring emerging technologies. I am particularly passionate about Artificial Intelligence and Machine Learning, and I aim to specialize in these fields as a long-term career path.
+### I am currently pursuing a Bachelor's degree in Computer Science, actively working on improving my programming skills, and exploring various areas of the IT industry. My academic and personal learning journey is focused on building a solid foundation in software development while actively exploring emerging technologies. I am particularly passionate about Artificial Intelligence and Machine Learning, and I aim to specialize in these fields as a long-term career path.
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=nuxoraa&label=PROFILE%20VIEWS&color=blue&style=flat-square" />
@@ -12,15 +12,15 @@
 
 ---
 
-##  About Me
+## About Me
 <table>
   <tr>
     <td>
       <ul>
-        <li>Окончил два курса: Frontend Pro и Backend Pro в Morrison Academy (2024-2026).</li>
-        <li>Имею опыт работы с C# .NET, Python, HTML, CSS и JavaScript.</li>
+        <li>Completed Frontend Pro and Backend Pro courses at Morrison Academy (2024-2026).</li>
+        <li>Experienced in C# .NET, Python, HTML, CSS, and JavaScript.</li>
       </ul>
-      <h3>onnect me :</h3>
+      <h3>Connect with me:</h3>
       <p>
         <a href="https://discord.com/users/1275368193489240094"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
         <a href="https://t.me/xorraa"><img src="https://img.shields.io/badge/Telegram-26A6E1?style=for-the-badge&logo=telegram&logoColor=white" /></a>
@@ -35,7 +35,7 @@
 
 ---
 
-##  Github Status
+## Github Status
 <p align="center">
   <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nuxoraa&show_icons=true&theme=nord&count_private=true&rank_icon=github&border_radius=8" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=nuxoraa&theme=nord&hide_border=false" />
@@ -47,14 +47,14 @@
 
 ---
 
-##  Languages & tools I Have placed My Hands On
+## Languages & Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,dotnet,cs,py,linux,ubuntu,debian,git,github,arduino,react,raspberrypi,powershell,bash,blender,obsidian,vscode,visualstudio,figma" />
 </p>
 
 ---
 
-##  Best Repositories
+## Best Repositories
 <p align="center">
   <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nuxoraa&repo=Data-Science&theme=nord" />
   <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nuxoraa&repo=Artificial-Intelligence&theme=nord" />
