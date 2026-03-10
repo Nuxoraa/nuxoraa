@@ -23,11 +23,11 @@
         <li>💡 Interest in Artificial Intelligence, Machine Learning, Deep Learning, Data Science, Automation, BlockChain development.</li>
         <li>❗ I only like perfection.</li>
       </ul>
-      <h3>🤝 Connect me :</h3>
+      <h3>onnect me :</h3>
       <p>
-        <a href="https://discord.com/users/твой_id"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-        <a href="https://t.me/твой_ник"><img src="https://img.shields.io/badge/Telegram-26A6E1?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-        <a href="mailto:твой_email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+        <a href="https://discord.com/users/1275368193489240094"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+        <a href="https://t.me/xorraa"><img src="https://img.shields.io/badge/Telegram-26A6E1?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+        <a href="mailto:nuxora@proton.me"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
       </p>
     </td>
     <td>
@@ -38,7 +38,7 @@
 
 ---
 
-## 📊 Github Status
+##Github Status
 <p align="center">
   <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nuxoraa&show_icons=true&theme=nord&count_private=true&rank_icon=github&border_radius=8" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=nuxoraa&theme=nord&hide_border=false" />
@@ -57,7 +57,7 @@
 
 ---
 
-## ⭐ Best Repositories
+##Best Repositories
 <p align="center">
   <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nuxoraa&repo=Data-Science&theme=nord" />
   <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nuxoraa&repo=Artificial-Intelligence&theme=nord" />
@@ -65,7 +65,7 @@
 
 ---
 
-<h3 align="center">💰 Support Me</h3>
+<h3 align="center">Support Me</h3>
 <p align="center">
   <a href="https://buymeacoffee.com/xorraa">
     <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="180" alt="Buy Me A Coffee" />
