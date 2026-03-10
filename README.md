@@ -50,9 +50,8 @@
 
 ## Languages & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,dotnet,cs,py,linux,ubuntu,debian,git,github,arduino,react,raspberrypi,powershell,bash,blender,obsidian,vscode,visualstudio,figma" />
+  <img src="https://skillicons.dev/icons?i=js,gitlab,php,windows,linkedin,mysql,html,css,dotnet,cs,py,linux,ubuntu,debian,git,github,arduino,react,raspberrypi,powershell,bash,blender,obsidian,vscode,visualstudio,figma" />
 </p>
-
 ---
 
 ## Best Repositories
