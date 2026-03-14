@@ -52,14 +52,15 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,md,php,windows,linkedin,mysql,gitlab,html,css,dotnet,cs,py,linux,ubuntu,debian,git,github,arduino,react,raspberrypi,powershell,bash,blender,obsidian,vscode,visualstudio,figma,postman,docker,vite" />
 </p>
+
 ---
 
 ## Best Repositories
 <p align="center">
-  <a href="https://github.com/Nuxoraa/cumatosis-storage">
+  <a href="https://github.com/Nuxoraa/who-linux-program-language">
     <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nuxoraa&repo=cumatosis-storage&theme=nord" />
   </a>
-  <a href="https://github.com/Nuxoraa/local-browser">
+  <a href="https://github.com/Nuxoraa/atom-sim-on-csharp">
     <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nuxoraa&repo=local-browser&theme=nord" />
   </a>
 </p>
