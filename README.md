@@ -58,7 +58,7 @@
 ## Best Repositories
 <p align="center">
   <a href="https://github.com/Nuxoraa/who-linux-program-language">
-    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nuxoraa&repo=cumatosis-storage&theme=nord" />
+    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nuxoraa&repo=who-linux-program-language&theme=nord" />
   </a>
   <a href="https://github.com/Nuxoraa/atom-sim-on-csharp">
     <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nuxoraa&repo=local-browser&theme=nord" />
