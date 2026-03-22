@@ -51,7 +51,7 @@
 
 ## Languages & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,md,php,windows,linkedin,mysql,gitlab,html,css,dotnet,cs,py,linux,fedora,debian,git,github,arduino,react,raspberrypi,powershell,bash,blender,obsidian,vscode,visualstudio,figma,postman,docker,vite" />
+  <img src="https://skillicons.dev/icons?i=js,py,cs,php,dotnet,html,css,react,vite,mysql,postman,docker,git,github,gitlab,vscode,visualstudio,figma,blender,obsidian,linux,fedora,debian,raspberrypi,arduino,windows,powershell,bash,md" />
 </p>
 
 ---
