@@ -58,11 +58,11 @@
 
 ## Best Repositories
 <p align="center">
-  <a href="https://github.com/Nuxoraa/who-linux-program-language">
-    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nuxoraa&repo=who-linux-program-language&theme=nord" />
+  <a href="[https://github.com/Nuxoraa/ASCII-Donut-C-Plus-Plus]">
+    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nuxoraa&repo=ASCII-Donut-C-Plus-Plus&theme=nord" />
   </a>
-  <a href="https://github.com/Nuxoraa/atom-sim-on-csharp">
-    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nuxoraa&repo=atom-sim-on-csharp&theme=nord" />
+  <a href="https://github.com/Nuxoraa/nova">
+    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nuxoraa&repo=nova&theme=nord" />
   </a>
 </p>
 
