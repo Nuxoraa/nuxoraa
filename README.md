@@ -25,7 +25,7 @@
       <h3>Connect with me:</h3>
       <p>
         <a href="https://discord.com/users/1275368193489240094"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-        <a href="https://t.me/xorraa"><img src="https://img.shields.io/badge/Telegram-26A6E1?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+        <a href="https://t.me/nuxoraa"><img src="https://img.shields.io/badge/Telegram-26A6E1?style=for-the-badge&logo=telegram&logoColor=white" /></a>
         <a href="mailto:nuxora@proton.me"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
       </p>
     </td>
