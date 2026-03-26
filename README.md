@@ -21,7 +21,6 @@
         <li>Experienced in C# .NET, Python, HTML, CSS, and JavaScript.</li>
         <li>Specializing in physics-based programming and automation systems.</li>
         <li>Main OS: Majaro Linux (KDE Plasma)</li>
-        <li>my toxic id 7BD31BB0631C842CCCBC451F6124D59330B6A1CA16EA8177828144EBE5FE9C497113CC56BE3E</li>
       </ul>
       <h3>Connect with me:</h3>
       <p>
