@@ -20,7 +20,7 @@
         <li>Completed Frontend Pro and Backend Pro courses at Morrison Academy (2024-2026).</li>
         <li>Experienced in C# .NET, Python, HTML, CSS, and JavaScript.</li>
         <li>Specializing in physics-based programming and automation systems.</li>
-        <li>Main OS: Majaro Linux (KDE Plasma)</li>
+        <li>Main OS: Kali Linux (KDE Plasma)</li>
       </ul>
       <h3>Connect with me:</h3>
       <p>
