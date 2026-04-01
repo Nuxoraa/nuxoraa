@@ -49,7 +49,7 @@
 
 ---
 
-## Languages & Tools
+## Languages &  Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,py,cs,php,dotnet,html,css,react,mysql,postman,docker,git,github,gitlab,vscode,visualstudio,figma,blender,obsidian,linux,debian,raspberrypi,arduino,windows,powershell,bash,md,linkedin&perline=14" />
 </p>
